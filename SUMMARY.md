@@ -7,4 +7,5 @@
 * [粒子与尾迹参数](Chapter4.md)
 * [3ds Max相关内容](Chapter5.md)
 * [编辑器的指令系统](Chapter6.md)
-
+* [来自火焰库拉关于ini的分享](Share1.md)
+* [来自火焰库拉关于粒子的分享](Share2.md)
